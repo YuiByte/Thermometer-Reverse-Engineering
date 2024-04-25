@@ -3,7 +3,7 @@
 
 ## Here is some Pictures of the Package of the [Aliexpress Thermometer](https://fr.aliexpress.com/item/1005006534648116.html), PCB, App..
 
-![Bottom Info](https://github.com/YuiByte/Thermometer-Reverse-Engineering/blob/main/img/bottomInfo.png|20)
+![Bottom Info](https://github.com/YuiByte/Thermometer-Reverse-Engineering/blob/main/img/bottomInfo.png)
 ![Bottom Vertical](https://github.com/YuiByte/Thermometer-Reverse-Engineering/blob/main/img/BottomVertical.png)
 ![Top](https://github.com/YuiByte/Thermometer-Reverse-Engineering/blob/main/img/top.png)
 It's the top of the thermometer, it's a little bit cheap but however it's a 3$ thermometer.
