@@ -3,25 +3,28 @@
 
 #### Here is some Pictures of the Package of the [Aliexpress Thermometer](https://fr.aliexpress.com/item/1005006534648116.html), PCB, App..
 
-![Bottom Info](https://github.com/YuiByte/Thermometer-Reverse-Engineering/blob/main/img/bottomInfo.png|width=50)
-![[BottomVertical.png||350]]
-
-![[top.png||200]]
+![Bottom Info](https://github.com/YuiByte/Thermometer-Reverse-Engineering/blob/main/img/bottomInfo.png)
+![Bottom Vertical](https://github.com/YuiByte/Thermometer-Reverse-Engineering/blob/main/img/BottomVertical.png)
+![Top](https://github.com/YuiByte/Thermometer-Reverse-Engineering/blob/main/img/top.png)
 It's the top of the thermometer, it's a little bit cheap but however it's a 3$ thermometer.
-![[bottom.png||200]]
+
+![Bottom](https://github.com/YuiByte/Thermometer-Reverse-Engineering/blob/main/img/bottom.png)
 Here is the bottom of the thermometer, you need to slide to open it.
-![[topIN.png||350]]
+
+![Top In](https://github.com/YuiByte/Thermometer-Reverse-Engineering/blob/main/img/topIN.png)
 And the top-in, the thermometer have two AAA 1,5v Batteries but not included in the packaging.
+
 # [Smart Life](https://play.google.com/store/apps/details?id=com.tuya.smartlife&hl=fr&gl=US) APP screen :
-![[Screenshot2.png||250]]
+![ScreenshotApp1](https://github.com/YuiByte/Thermometer-Reverse-Engineering/blob/main/img/ScreenshotApp1.png)
+
 ## Details of the app :
 Here is the home screen of the application [Smart Life](https://play.google.com/store/apps/details?id=com.tuya.smartlife&hl=fr&gl=US) from our Thermometer. The app give Temperature informations and also Humidity. It's possible in the smart menu to do some automations with [Google Home](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app&hl=fr&gl=US), [Tuya Smart](https://play.google.com/store/apps/details?id=com.tuya.smart&hl=fr&gl=US) or other Home apps controls.   
 We did not go any further on the automations with this app, they’re all have the same functionalities specified just before. With automations it's possible to activate connected radiator, air conditioner or air purifier to a certain temperature or Humidity.
 
-![[Screenshot.png||250]]
+![ScreenshotApp2](https://github.com/YuiByte/Thermometer-Reverse-Engineering/blob/main/img/ScreenshotApp2.png)
 Here is the same things that i said before but here is a built in automation to have notifications on smartphone and some other simple features.
 # Detailed Table / Schematic : 
-![[Capture d’écran 2024-04-12 à 11.07.59.png||340]]                    ![[card.png||260]]
+![Table](https://github.com/YuiByte/Thermometer-Reverse-Engineering/blob/main/img/table.png) ![PCB Infos](https://github.com/YuiByte/Thermometer-Reverse-Engineering/blob/main/img/pcb_with_info.png)
 
 # More details of Modules / Controllers :
 
