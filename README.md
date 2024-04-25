@@ -2,8 +2,8 @@
 ###### by YuiByte, Roméo, Mathieu, Florent
 
 #### Here is some Pictures of the Package of the [Aliexpress Thermometer](https://fr.aliexpress.com/item/1005006534648116.html), PCB, App..
-
-![[bottomInfo.png||350]]
+img/bottomInfo.png
+![[img/bottomInfo.png||350]]
 ![[BottomVertical.png||350]]
 
 ![[top.png||200]]
