@@ -29,7 +29,7 @@ Here is the same things that i said before but here is a built in automation to 
 
 # More details of Modules / Controllers :
 
-#### *CB3S module :
+#### CB3S module :
 - Built in with the low-power 32-bit CPU, which can also function as an application processor
 - The clock rate: 120 MHz
 - Working voltage: 3.0 to 3.6V
