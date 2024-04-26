@@ -121,3 +121,10 @@ mqtt | 2.3.1 | 01-01 00:00:22 | erc:0 | [9:-60 | 20:-2310]/mqtt | 2.3.1 | 01-01 
 
 # Conclusion of this reverse engineering project :
 In this reverse project we discovered that is possible to reverse all of this 3$ Thermometer product. We find all the different component’s of this device. The thermometer use all the functionality’s that the seller tell witch is Temperature, Humidity and also automations. We didn't change the firmware to use it with Home assistant but if you want to do it please check this [forum](https://www.elektroda.com/rtvforum/topic3968377.html) and the [BK7231GUIFlashTool](https://github.com/openshwprojects/BK7231GUIFlashTool?tab=readme-ov-file). You can also check the 11 port of the [CB3S wifi module](https://developer.tuya.com/en/docs/iot/cb3s?id=Kai94mec0s076)that have a UART2_TXD on it, you can maybe find some interesting informations on it.
+
+
+## Authors
+- [@Yui-MHCP-001](https://github.com/Yui-MHCP-001)
+- [@rTielemans](https://github.com/rTielemans)
+- [@mattmaka219](https://github.com/mattmaka219)
+
